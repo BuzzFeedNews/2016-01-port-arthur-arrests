@@ -1,6 +1,6 @@
 # Analysis of Jefferson County (TX) Jail Data
 
-This repository contains data, methodologies, and analysis associated with the BuzzFeed News article, "HEADLINE AND LINK," published MONTH DAY YEAR.
+This repository contains data, methodologies, and analysis associated with the BuzzFeed News article, "[The Ticket Machine](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)", published January 26, 2016.
 
 
 ## Data 
