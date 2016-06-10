@@ -23,7 +23,7 @@ The following three passages are supported by [BuzzFeed News' data analysis](not
 
 - "Over the past decade, about 1,300 people have spent three days or more in jail for traffic tickets — and about 75% of those people were black."
 
-The Python code that performs these analysis is [available in this Jupyter notebook](notebooks/port_arthur_analysis.ipynb). To re-run it yourself, you'll need to install the libraries listed in [`requirements.txt`](requirements.txt)
+The Python code that performs these analysis is [available in this Jupyter notebook](notebooks/port-arthur-analysis.ipynb). To re-run it yourself, you'll need to install the libraries listed in [`requirements.txt`](requirements.txt)
 
 
 ## Questions / Feedback?
