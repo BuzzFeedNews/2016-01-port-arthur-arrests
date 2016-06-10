@@ -15,7 +15,7 @@ Please note that some arrests in the data may have (a) been entered in error, or
 
 ## Analyses
 
-The following three passages are supported by [BuzzFeed News' data analysis](notebooks/port_arthur_analysis.ipynb):
+The following three passages are supported by [BuzzFeed News' data analysis](notebooks/port-arthur-analysis.ipynb):
 
 - "From 2009 to 2011, the height of the city’s traffic enforcement spree, about 1,500 people were booked into lockup for unpaid traffic fines."
 
