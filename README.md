@@ -7,7 +7,7 @@ This repository contains data, methodologies, and analysis associated with the B
 
 The analyses in this repository depend on data provided by Jefferson County, Texas, which runs the jail where Port Arthur police officers bring arrestees. The data includes arrests made by the Port Arthur Police Department (PAPD) for people charged with low-level offenses ("Class C misdemeanors") such as speeding and public intoxication, from January 2005 through November 2015.
 
-The [raw datafile](data/PAPD Only Class C Only.xlsx.zip) was provided by Jefferson County in response to a Public Information Act request. The [`jail_data_cleanup.py` script](scripts/jail_data_cleanup.py) reformats the data and creates two clean data files for
+The [raw datafile](data/raw/PAPD_ClassC_NoNames.csv) was provided by Jefferson County in response to a Public Information Act request. The [`jail_data_cleanup.py` script](scripts/jail_data_cleanup.py) reformats the data and creates two clean data files for
 analysis: 1) one with people who were arrested just for traffic offenses; 2) the other with all Class C misdemeanors.
 
 Please note that some arrests in the data may have (a) been entered in error, or (b) later been dismissed. For this reason and because individual names were not essential to the analysis, BuzzFeed News has removed the columns containing defendants' names and addresses from the data published here.
